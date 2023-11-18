@@ -1,0 +1,56 @@
+<div className="video1">
+                                         <div className="video1-1">
+                                         <img src="https://i.ytimg.com/vi/0crJvCB4qB8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz-SQYJ8rzEjIdAh8IIU2yz3zQCg"
+                                          height= "162.5px" width="400px"/>
+                                         </div>
+                                         <div className="video1-2">
+                                         <div className="video1-2-1">
+                                            <img src="https://yt3.ggpht.com/M8HHa-4HpA1tPBYyCclC5JmODA7vx77XryhQe_0_4L9bCfpYwiDr7uJc3bOb9UZKJpogSC9OvA=s68-c-k-c0x00ffffff-no-rj" 
+                                            height="40px" width="55px"  border-radius="100px"  />
+                                         </div>
+                                         <div className="video1-2-2">
+                                            This is a youtube title in our youtube <br/> channel first
+                                
+                                         </div>
+                                         </div>
+                                         <div className="video1-3"> <b> MrWhostheboss </b> </div>
+                                         <div className="video1-4"> 1.3M views . 18 hours ago</div>
+               </div>
+               <div className="">
+                   <iframe width="300" height="180" src="https://www.youtube.com/embed/-40U0Gy9Avs?si=DHuvFICnpeiEqbPO" title="YouTube video player" 
+                   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                   
+               </div>
+               <div className="">
+                   <iframe width="300" height="180" src="https://www.youtube.com/embed/TUutoMpPEeY?si=KmZuekBsLCKaz04Q" title="YouTube video player" 
+                   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div className="">
+                   <iframe width="300" height="180" src="https://www.youtube.com/embed/edkisqciGhc?si=mtzMUJB8khKXooP5" title="YouTube video player" 
+                   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div className="">
+                   <iframe width="300" height="180" src="https://www.youtube.com/embed/qBKdjEZ7PT0?si=p7NxSPCfVFGRwV4S" title="YouTube video player" 
+                   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div className="">
+                   <iframe width="300" height="180" src="https://www.youtube.com/embed/80Ipd6oDNcE?si=uitdXG1nYkuwrQjK" title="YouTube video player" 
+                   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div className="">
+                   <video
+                   height="180" width="300"
+                    controls poster="https://www.youtube.com/watch?v=_Itu-aaVD7w&ab_channel=KommuneIndia " >
+                       <source src="https://www.youtube.com/watch?v=_Itu-aaVD7w&ab_channel=KommuneIndia"
+                       type="video/mp4"/>
+                   </video>
+               </div>
+               <div className="">
+                   <video width="300" 
+                   height="180" 
+                   controls poster= 
+        "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"> 
+                <source src= 
+        "https://media.geeksforgeeks.org/wp-content/uploads/20200409094356/Placement100-_-GeeksforGeeks2.mp4"
+                        type="video/mp4"/> 
+            </video> 

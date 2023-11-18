@@ -1,0 +1,326 @@
+.VMainBody{
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+     flex-wrap: wrap;
+     height: 100vh;
+     ;   
+}
+.Vsideb{
+    width: 100px;
+    height: 100vh;
+    background-color: white;
+}
+.VMain{
+    display: flex;
+    flex: 3;
+    flex-direction: column;
+    border: none;
+    background-color:white;
+
+}
+.VVideo{
+    display: flex;
+    height: 478px;
+    background-color:white;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
+.VPlay{
+    height: 95%;
+    width: 95%;
+    background-color: white;
+    border-radius: 25px;
+}
+.iframe{
+    border-radius: 25px;
+    width :965px ;
+    height:462px;
+}
+.VExtra{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    
+    background-color:white;
+    
+    align-items: center;
+    
+}
+.VTitle{
+    background-color:w;
+    height: 50px;
+    width: 95%;
+    
+}
+.VSubs{
+    display: flex;
+    background-color:white;
+    height: 100px;
+    width: 95%;
+    justify-content: space-between;
+    }
+    .VChannel{
+        display: flex;
+        background-color:white;
+        justify-content: space-between;
+        height: 100px;
+        width: 25%;
+            }
+    .VLogo{
+        background-color: pink;
+        border-radius: 25px;
+        height: 50px;
+        width: 50px;
+        display: flex;
+        justify-content: space-between;
+        justify-content: center;
+        align-items: center;
+    }
+    .VName{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .VSubscriber{
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        background-color: white;
+        margin-top: 10px;
+        border: 2px solid black;
+    }
+    
+    .VLike
+    {
+        display: flex;
+        background-color: white;
+        height: 60px;
+        width: 50%;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-between;
+
+        
+    }
+     .VLike-1{
+        width: 60px;
+        background-color: white;
+        height: 35px;
+        width: 120px;
+        border-radius: 15px;
+        display: flex;
+        text-align: center;
+    }
+    .VLike-1-1{
+        width: 60px;
+        background-color: white;
+        height: 35px;
+        width: 60px;
+        border: 2px solid black;
+        border-radius: 15px;
+        border-top-right-radius: 0%;
+        border-bottom-right-radius: 0%;
+    }
+    .VLike-1-2{
+        width: 60px;
+        background-color: white;
+        height: 35px;
+        width: 60px;
+        border: 2px solid black;
+        border-radius: 15px;
+        border-top-left-radius: 0%;
+        border-bottom-left-radius: 0%;
+    }
+    .VLike-2{
+        text-align: center;
+        width: 60px;
+        background-color: white;
+        height: 35px;
+        width: 80px;
+        border-radius: 15px;
+        border: 2px solid black;
+    }
+    .VLike-3{
+        text-align: center;
+        width: 60px;
+        background-color: white;
+        height: 35px;
+        width: 80px;
+        border-radius: 15px;
+        border: 2px solid black;
+    }
+    .VLike-4{
+        text-align: center;
+        width: 60px;
+        background-color: white;
+        height: 35px;
+        width: 80px;
+        border-radius: 15px;
+        border: 2px solid black;
+    }
+    .VLike-5{
+        text-align: center;
+        height: 40px;
+        width: 40px;
+        border-radius: 20px;
+        background-color: aqua;
+        border: 2px solid black;
+    }
+    .VDescription{
+        background-color: white;
+        height: 200px;
+        width: 95%;
+        border-radius: 25px;
+        border: 2px solid black;
+    }
+    
+.VSide{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    border-top: none;
+    border: 2px double black;
+    background-color: white;
+    
+
+}
+.main-right-top{
+    margin-left: 20px;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    
+  }
+  .icons1{
+    padding: 3px;
+    background-color: rgb(32, 29, 29);
+    color: white;
+    height: 35px;
+    width: 50px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }
+  .icons2{
+    padding: 3px;
+    background-color: lightgrey;
+    height: 35px;
+    width: 70px;
+    text-align: center;
+    /* justify-content: center; */
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }
+  .icons3{
+    padding: 3px;
+    background-color: lightgrey;
+    height: 35px;
+    width: 80px;
+    text-align: center;
+    /* justify-content: center; */
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }
+  .icons4{
+    background-color: lightgrey;
+    height: 35px;
+    padding: 3px;
+    width: 60px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }
+  .icons5{
+    background-color: lightgrey;
+    height: 35px;
+    padding: 3px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }  .icons6{
+    background-color: lightgrey;
+    height: 35px;
+    padding: 3px;
+    width: 135px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }  .icons7{
+    background-color: lightgrey;
+    height: 35px;
+    width: 70px;
+    padding: 3px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+  }  .icons8{
+    background-color: lightgrey;
+    height: 35px;
+    width: 50px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    padding: 3px;
+    border-radius: 10px;
+  }   .icons9{
+    background-color: lightgrey;
+    height: 35px;
+    width: 115px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    padding: 3px;
+    border-radius: 10px;
+  }
+  .icons10{
+  background-color: lightgrey;
+  height: 35px;
+  width: 65px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  padding: 3px;
+  border-radius: 10px;
+}
+.icons11{
+  background-color: lightgrey;
+  height: 35px;
+  padding: 3px;
+  width: 50px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+.icons12{
+  background-color: lightgrey;
+  height: 35px;
+  padding: 3px;
+  width: 170px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+.icon-scroll{
+  width: 40px;
+  height: 40px;
+  padding: 3px;
+  font-size: 30px;
+  border-radius: 50%;
+}
